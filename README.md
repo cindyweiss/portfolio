@@ -1,21 +1,23 @@
 # portfolio
-Number and name of feature: __________________Lab 04: RWD Portfolio______________
+Number and name of feature: __________refactor css______________________
 
-Estimate of time needed to complete: __5hours___
+Estimate of time needed to complete: ____1 hr_
 
-Start time: __11:33___
-
-Finish time: __12:10___
-
-
-Actual time needed to complete: _5 hours____
-
-Number and name of feature: __________________extend your profile______________
-
-Estimate of time needed to complete: __1hours___
-
-Start time: __10:49___
+Start time: ___9:39__
 
 Finish time: _____
 
 Actual time needed to complete: _____
+
+
+Number and name of feature: _________modify the contents_______________________
+
+Estimate of time needed to complete: ___1hr__
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
